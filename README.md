@@ -3,7 +3,7 @@
 Auto Claim for Dogs Telegram Bot
 
 # Watch Video Tutorial
-[Click Here](#)
+[Click Here](https://youtu.be/VO5d7zJAOqY)
 
 # Features
 
